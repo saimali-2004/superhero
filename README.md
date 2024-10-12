@@ -1,1 +1,1 @@
-# superhero
+# my Rings game
